@@ -125,7 +125,7 @@ Dimension table: This table stores data about how the data in the fact table can
 - Following Good practices of data modeling is a must. [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed mix of STAR and Snowflake data modeling method.
 
-<img src="https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/main/Resources/Data_Model.JPG" class="center">
+<img src="https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/master/Resources/Data_Model.JPG" class="center">
 
 
 
