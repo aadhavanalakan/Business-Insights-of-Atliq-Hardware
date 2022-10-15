@@ -133,29 +133,22 @@ Dimension table: This table stores data about how the data in the fact table can
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-
-
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/master/Resources/Finace.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/master/Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/master/Resources/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/aadhavanalakan/Business-Insights-of-Atliq-Hardware/blob/master/Resources/supply%20chain.gif)
 
 
 ## Project Outcome
 
-
+The whole project showed insights into the KPIs of different departments. The management can now make strategic decisions based on the insights.
